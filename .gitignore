@@ -15,14 +15,14 @@ node_modules
 .ssh
 .vscode
 .bash_history
-	.bash_logout
-	.bashrc
-	.gitconfig
-	.gitignore
-	.lesshst
-	.node_repl_history
-	.profile
-	.sudo_as_admin_successful
-	hexlet-git/
-	hexlet-hello-world/
+.bash_logout
+.bashrc
+.gitconfig
+.gitignore
+.lesshst
+.node_repl_history
+.profile
+.sudo_as_admin_successful
+hexlet-git/
+hexlet-hello-world/
 
