@@ -1,0 +1,28 @@
+node_modules
+Видео
+Музыка
+Документы
+Загрузки
+Изображения
+Шаблоны
+Общедоступные
+.cache
+.config
+.gnupg
+.local
+.npm
+.pki
+.ssh
+.vscode
+.bash_history
+	.bash_logout
+	.bashrc
+	.gitconfig
+	.gitignore
+	.lesshst
+	.node_repl_history
+	.profile
+	.sudo_as_admin_successful
+	hexlet-git/
+	hexlet-hello-world/
+
